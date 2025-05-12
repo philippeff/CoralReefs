@@ -1,0 +1,81 @@
+Transect.code,Transect.name,Site.name,Date,Time,Abundance,Species.richness,SEA.People.category,Latitude,Longitude,Diver,Buddy,Visibility,Direction,Depth,Length,SC.index,Reef.side.big.fish,Reef.side.small.fish,Small.fish.start,Small.fish.end,Big.fish.start,Big.fish.end,Notes,zone
+PEF01,Southeast Pef,pulau pef,2023-09-25,9:20,197,30,,-0.445552,130.450432,PFF,IMC,15,East,10,50,3,right,left,15,35,9,14,,NTZ
+WMA01,West Mansuar,west mansuar,2023-09-27,8:40,835,59,,-0.606481,130.555112,PFF,IMC,20,West,10,50,4,right,left,20,39,9,19,Incomplete coral quadrats,UZ
+KAP01,Kapisawar jetty,kapisawar,2023-09-28,9:00,401,44,,-0.532147,130.574109,PFF,IMC,20,North,10,50,2,left,right,14,35,8,13,,UZ
+BUN01,Bun Kecil East,bun kecil,2023-09-28,11:50,93,31,,-0.513763,130.550196,PFF,IMC,15,South,10,50,1,left,right,11,27,6,11,,UZ
+ARB02,Arborek tip,arborek,2023-10-05,11:00,180,42,healthy,-0.565042,130.506824,PFF,SM,15,East,10,50,3,left,right,15,30,7,11,,NTZ
+YEN01,Yenbeser jetty,yenbeser,2023-10-06,8:30,194,28,,-0.46349,130.686703,PFF,SM,15,West,10,50,1,right,left,13,25,7,12,,UZ
+BLI01,Batu Lima,batu lima,2023-10-09,8:30,172,44,,-0.45023,130.69769,PFF,MM,12,South,10,50,1,left,right,10,28,5,9,,NTZ
+KRD01,Kordiris Homestay,kordiris homestay,2023-10-09,13:20,80,30,,-0.50585,130.664731,PFF,MM,20,East,10,50,3,right,left,16,30,13,16,,UZ
+NMA01,North Mansuar,north mansuar,2023-10-10,8:20,111,39,,-0.593665,130.570769,PFF,MM,30,West,10,50,1,left,right,19,34,14,18,,UZ
+OMA01,Off Manta Sandy,off manta sandy,2023-10-10,10:30,93,32,,-0.5804,130.56174,PFF,MM,20,North,10,50,1,right,left,11,26,6,9,,UZ
+YBU01,Yenbuba jetty,yenbuba,2023-10-11,8:30,217,66,healthy,-0.568828,130.658415,PFF,MM,30,West,10,50,3,left,right,12,45,6,11,,NTZ
+KUR01,Kurkapa jetty,kurkapa,2023-10-11,10:50,160,57,,-0.573255,130.61928,PFF,MM,30,East,10,50,2,left,right,11,40,6,11,,UZ
+NRA01,North Reef Arborek,north reef arborek,2023-10-11,15:40,77,31,,-0.546665,130.529194,PFF,MM,10,South,10,50,2,right,left,14,30,10,14,,UZ
+OTD01,Otdima reef,otdima reef,2023-10-12,8:30,149,39,,-0.540383,130.631083,PFF,MM,30,East,10,50,3,right,left,11,32,7,10,,UZ
+IIN01,Irwor Inbekya East,irwor inbekya,2023-10-12,10:50,229,41,,-0.555925,130.574064,PFF,MM,20,South,10,50,2,right,left,12,40,5,11,,UZ
+CKR01,Cape Kri,cape kri,2023-10-13,8:30,179,50,,-0.558491,130.687635,PFF,MM,25,East,10,50,4,right,left,11,36,7,11,,NTZ
+MIO01,Mioskon,mioskon,2023-10-13,10:30,635,69,,-0.497446,130.726704,PFF,MM,20,East,10,50,4,left,right,13,35,7,13,,NTZ
+GRF01,Gam Reef,gam reef,2023-10-18,10:00,340,61,,-0.510109,130.457344,PFF,RM,15,North,10,50,5,left,right,13,32,6,12,,UZ
+KRB01,Korbekwan Homestay,korbekwan homestay,2023-10-18,12:00,168,39,,-0.507962,130.518025,PFF,RM,15,East,10,50,3,right,left,11,27,7,11,,NTZ
+YEB01,Yeben shallows,yeben shallows,2023-10-19,8:45,177,57,,-0.491533,130.3343,PFF,RM,12,West,10,50,4,right,left,12,32,6,11,,UZ
+API01,Pulau Apibok,pulau apibok,2023-10-19,10:10,171,49,,-0.493371,130.382193,PFF,RM,20,East,10,50,4,right,left,16,32,8,14,,UZ
+SAW01,Sawandarek East,sawandarek,2023-10-24,9:30,166,56,healthy,-0.588513,130.605019,PFF,CJP,25,East,10,50,3,right,left,21,42,9,16,,NTZ
+SWI01,Sawidok,sawidok,2023-10-24,14:00,198,37,,-0.586743,130.620794,PFF,CJP,15,West,10,50,1,right,left,16,35,10,15,,UZ
+MIO02,Mioskon 2,mioskon,2023-10-25,8:30,373,70,,-0.497018,130.726368,PFF,CJP,15,North,10,50,3,right,left,14,36,7,13,,NTZ
+SAR01,Sardine reef,sardine reef,2023-10-25,11:40,113,41,,-0.53356,130.715805,PFF,CJP,20,South,10,50,1,left,right,14,35,8,13,,NTZ
+PAP01,Papua Explorers Resort,papua explorers,2023-10-26,9:00,111,45,degraded,-0.528528,130.605272,PFF,CJP,20,East,10,50,2,right,left,5,30,5,10,,UZ
+YBK01,Yenbekwan,yenbekwan,2023-10-26,14:30,132,43,healthy,-0.569026,130.639864,PFF,CJP,20,West,10,50,2,right,left,12,40,5,11,,UZ
+KRD02,Kordiris Homestay 2,kordiris homestay,2023-10-27,8:45,224,49,,-0.507196,130.665849,PFF,CJP,20,North,10,50,1,left,right,14,35,8,13,,UZ
+MKP01,Mike's point,mike's point,2023-10-27,10:50,242,47,,-0.515954,130.673279,PFF,CJP,15,West,10,50,0,left,right,16,45,9,14,,NTZ
+URA01,Pulau Urai,pulau urai,2023-10-30,10:30,492,47,,-0.413396,130.682197,PFF,CJP,10,North,10,50,2,left,right,14,35,7,13,,UZ
+GUR01,Gurara Resort,gurara resort,2023-10-30,15:30,392,48,,-0.44219,130.767853,PFF,CJP,15,West,10,50,1,right,left,12,45,6,12,,NTZ
+YBU02,Yenbuba 2,yenbuba,2023-11-01,11:40,206,48,,-0.567466,130.659772,PFF,CJP,15,West,10,50,2,left,right,11,42,6,11,,NTZ
+BLI02,Batu Lima 2,batu lima,2023-11-02,9:00,232,56,,-0.449945,130.697729,PFF,NB,12,North,10,50,3,right,left,14,46,7,13,,NTZ
+YEN02,Yenbeser 2,yenbeser,2023-11-02,11:20,233,38,,-0.464316,130.688563,PFF,NB,15,East,10,50,1,right,left,13,31,7,13,,UZ
+YBO01,Yendebabo North,yendebabo north,2023-11-04,12:30,168,52,,-0.4889,130.67568,PFF,FP,15,North,10,50,1,right,left,15,33,9,14,,UZ
+KRB02,Korbekwan Homestay 2,korbekwan homestay,2023-11-06,8:10,118,39,,-0.508141,130.518455,PFF,RM,15,West,10,50,2,left,right,14,36,7,13,,NTZ
+GAB01,Gam bay,gam bay,2023-11-06,9:50,144,23,,-0.495922,130.561599,PFF,RM,10,North,10,50,1,right,left,16,29,6,13,,NTZ
+GAB02,Gam bay 2,gam bay,2023-11-06,10:20,90,27,,-0.496145,130.561272,PFF,RM,10,South,10,50,1,left,right,41,57,36,41,,NTZ
+URA02,Pulau Urai 2,pulau urai,2023-11-07,9:10,334,48,,-0.414265,130.682037,PFF,RM,15,North,10,50,2,left,right,13,34,7,12,,UZ
+REL01,Raja Ampat Eco Lodge,raja ampat eco lodge,2023-11-07,11:20,160,48,,-0.429173,130.717659,PFF,RM,15,North,10,50,3,left,right,14,29,8,13,,NTZ
+YBO02,Yendebabo North 2,yendebabo north,2023-11-07,15:30,122,37,,-0.48981,130.675873,PFF,RM,25,North,10,50,1,right,left,13,28,7,12,,UZ
+NMA02,North Mansuar 2,north mansuar,2023-11-08,8:20,131,35,,-0.594366,130.572035,PFF,RM,25,West,10,50,1,right,left,12,29,6,12,,UZ
+OMA02,Off Manta Sandy 2,off manta sandy,2023-11-08,10:00,238,37,,-0.580887,130.56265,PFF,RM,20,West,10,50,1,right,left,11,25,5,11,,UZ
+REP01,Repef,repef,2023-11-09,9:10,373,51,,-0.442448,130.432629,PFF,RM,10,South,10,50,2,right,left,10,36,4,9,,UZ
+REP02,Repef,repef,2023-11-09,9:50,134,35,,-0.442448,130.432629,PFF,RM,10,North,10,50,1,left,right,45,66,40,45,,UZ
+PEF02,Southeast Pef 2,pulau pef,2023-11-09,11:30,520,48,,-0.445291,130.451401,PFF,RM,15,North,10,50,2,right,left,12,36,6,12,,NTZ
+WGA01,West Gam,west gam,2023-11-09,14:20,133,32,,-0.484464,130.468015,PFF,RM,15,South,10,50,3,right,left,11,40,5,10,,UZ
+NRA02,North Reef Arborek 2,north reef arborek,2023-11-10,8:00,112,32,,-0.547904,130.530749,PFF,RM,15,North,10,50,2,right,left,9,31,4,9,,UZ
+LAL01,Lalosi,lalosi,2023-11-10,10:00,528,55,,-0.548167,130.498333,PFF,RM,20,East,10,50,3,left,right,10,30,5,10,,NTZ
+LAL02,Lalosi 2,lalosi,2023-11-10,10:40,182,45,,-0.548167,130.498333,PFF,RM,20,West,10,50,2,right,left,41,62,35,41,,NTZ
+IIN02,Irwor Inbekya East 2,irwor inbekya,2023-11-11,8:00,229,50,,-0.558023,130.575901,PFF,RM,25,North,10,50,2,left,right,12,31,6,11,,UZ
+KAP02,Kapisawar 2,kapisawar,2023-11-11,9:20,189,50,,-0.531174,130.573291,PFF,RM,15,North,10,50,1,left,right,NA,NA,5,10,,UZ
+SGK01,Sengky bay,sengky bay,2023-11-11,11:00,223,35,,-0.489911,130.592048,PFF,RM,12,East,10,50,2,right,left,10,31,5,10,,UZ
+SGK02,Sengky bay 2,sengky bay,2023-11-11,12:00,170,29,,-0.489911,130.592048,PFF,RM,12,West,9,50,2,left,right,40,62,36,40,,UZ
+YBK02,Yenbekwan 2,yenbekwan,2023-11-14,9:00,165,47,,-0.569933,130.63803,PFF,CJP,25,West,10,50,1,left,right,16,32,7,13,,UZ
+KUR02,Kurkapa jetty 2,kurkapa,2023-11-14,13:00,110,51,,-0.573092,130.619919,PFF,CJP,20,East,10,50,1,left,right,12,33,6,11,,UZ
+SWI02,Sawidok 2,sawidok,2023-11-15,9:20,204,56,,-0.586828,130.621453,PFF,CJP,25,East,10,50,2,right,left,11,39,4,10,,UZ
+SAW02,Sawandarek 2,sawandarek,2023-11-15,11:40,188,60,,-0.588125,130.60633,PFF,CJP,25,South,10,50,2,left,right,12,34,6,11,,NTZ
+MER01,Merpati,merpati,2023-11-17,10:20,107,38,,-0.658384,130.588653,PFF,CJP,15,East,10,50,0,right,left,20,37,15,20,Bomb fishing 10 years ago,UZ
+AGU01,Agusta,agusta,2023-11-17,13:20,613,63,,-0.64926,130.571302,PFF,CJP,20,West,10,50,3,left,right,10,34,4,9,,UZ
+MER02,Merpati 2,merpati,2023-11-30,9:00,86,28,,-0.658546,130.589554,PFF,OLF,15,West,10,50,0,right,left,13,29,7,12,,UZ
+AGU02,Agusta 2,agusta,2023-11-30,10:50,599,58,,-0.64926,130.571302,PFF,OLF,20,West,10,50,2,left,right,13,39,6,11,,UZ
+ARB03,Arborek tip 2,arborek,2023-11-30,16:30,177,44,,-0.565042,130.506824,PFF,OLF,15,West,10,50,2,right,left,10,30,6,10,,NTZ
+MKP04,Combined MKP02 and MKP03,mike's point,2023-12-01,9:00,265,53,,-0.515467,130.672888,PFF,OLF,15,East,10,25,1,left,right,13,32,8,13,"Combined MKP02 and MKP03, metadata from MKP03",NTZ
+PAP02,Papua Explorers Resort 2,papua explorers,2023-12-01,11:00,125,39,,-0.528235,130.605813,PFF,OLF,15,West,10,50,0,right,left,13,30,9,13,No orthomosaic,UZ
+YEB02,Yeben shallows 2,yeben shallows,2023-12-02,9:00,186,61,,-0.48965,130.333935,PFF,OLF,20,West,10,50,4,left,right,20,43,15,20,No orthomosaic,UZ
+COV01,Cove Eco Resort,cove eco resort,2023-12-02,11:00,206,58,,-0.484872,130.362313,PFF,OLF,20,East,10,50,1,left,right,11,38,6,11,No orthomosaic,UZ
+CKR03,Cape Kri 3,cape kri,2023-12-04,10:00,237,56,,-0.557085,130.689695,PFF,AB,15,West,10,50,1,left,right,12,40,5,11,,NTZ
+SAR02,Sardine reef 2,sardine reef,2023-12-04,11:30,388,74,,-0.534675,130.715502,PFF,AB,15,West,10,50,5,left,right,15,42,6,14,Coral photos with GoPro,NTZ
+WGA02,West Gam 2,west gam,2023-12-05,9:10,108,35,,-0.484967,130.468423,PFF,RM,15,South,10,50,2,right,left,10,29,5,9,A lot of macroalgae,UZ
+GRF02,Gam reef 2,gam reef,2023-12-05,11:00,459,59,,-0.509382,130.456602,PFF,RM,20,South,10,50,1,right,left,12,35,6,12,,UZ
+MHM01,Mayhem,mayhem,2023-12-05,12:30,740,66,,-0.512622,130.445387,PFF,RM,20,East,10,50,3,left,right,13,40,8,13,,UZ
+OTD02,Otdima reef 2,otdima reef,2023-12-06,9:00,167,55,,-0.540854,130.630296,PFF,OLF,20,West,10,50,3,left,right,12,37,7,11,2 COTS in transect,UZ
+BUN02,Bun Kecil 2,bun kecil,2023-12-06,11:30,244,53,,-0.514653,130.546385,PFF,OLF,15,West,10,50,1,left,right,10,37,5,10,,UZ
+MHM02,Mayhem 2,mayhem,2023-12-07,9:30,1002,76,,-0.513056,130.445321,PFF,OLF,20,West,10,50,4,left,right,16,47,10,15,,UZ
+WMA02,West Mansuar 2,west mansuar,2023-12-07,11:30,376,75,,-0.607344,130.554115,PFF,OLF,20,West,10,50,3,right,left,15,40,7,14,,UZ
+REL02,Raja Ampat Eco Lodge 2,raja ampat eco lodge,2023-12-08,9:00,334,47,,-0.427561,130.716488,PFF,OLF,10,South,10,50,2,right,left,15,41,9,14,,NTZ
+GUR02,Gurara Resort 2,gurara resort,2023-12-08,10:45,146,35,,-0.441936,130.768527,PFF,OLF,15,West,10,50,1,right,left,9,27,4,9,,NTZ
+API02,Pulau Apibok 2,pulau apibok,2023-12-11,9:00,81,30,,-0.492602,130.379833,PFF,OLF,15,West,10,50,0,left,right,22,37,18,21,Could not find first transect,UZ
+COV02,Cove Eco Resort 2,cove eco resort,2023-12-11,11:40,159,60,,-0.484896,130.362478,PFF,OLF,15,East,10,50,2,left,right,16,45,8,15,,UZ
